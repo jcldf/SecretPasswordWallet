@@ -64,7 +64,7 @@ void setup() {
   arduboy.setFrameRate(30);
   
   strcpy(entries[0].site, "Google");
-  strcpy(entries[0].password, "1245345asdfqwe");
+  strcpy(entries[0].password, "1245345asdfqwe"); //put your passwords here
   
   strcpy(entries[1].site, "Instagram");
   strcpy(entries[1].password, "password1232222");
