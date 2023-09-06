@@ -67,13 +67,13 @@ void setup() {
   strcpy(entries[0].password, "1245345asdfqwe"); //put your passwords here
   
   strcpy(entries[1].site, "Instagram");
-  strcpy(entries[1].password, "password1232222");
+  strcpy(entries[1].password, "password1232222"); //put your passwords here
   
   strcpy(entries[2].site, "Outlook");
-  strcpy(entries[2].password, "outlookemail123");
+  strcpy(entries[2].password, "outlookemail123"); //put your passwords here
 
   strcpy(entries[3].site, "bank");
-  strcpy(entries[3].password, "p08000282234sdf");
+  strcpy(entries[3].password, "p08000282234sdf"); //put your passwords here
 }
 
 void drawEntry(uint8_t index) {
